@@ -22,7 +22,7 @@ This Employee Task Management System is a web-based application developed in PHP
 
 1. Clone the repository to your local machine or server:
 
-     git clone https://github.com/Adil0710/Employee-Task-Management.git
+     git clone https://github.com/kainat092002/Employee-Task-Management.git
 
 
 2. Create a database into your MySQL named `tms_db`.
@@ -43,7 +43,7 @@ This Employee Task Management System is a web-based application developed in PHP
 
 ## Contributors
 
-- [Adil Patel](https://github.com/Adil0710)
+- [Kainat Mujawar](https://github.com/kainat092002)
 - Contributor 1
 - Contributor 2
 
